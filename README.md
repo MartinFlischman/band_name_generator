@@ -1,6 +1,6 @@
-## Band Name Generator 🎸🏙️🐾
+# Band Name Generator 🎸🏙️🐾
 
-# Unleash your inner rockstar! 
+## Unleash your inner rockstar! 
 
 This fun tool takes the city you grew up in and your pet's name to generate the ultimate band name. 
 
